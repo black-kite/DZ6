@@ -109,15 +109,4 @@ public class Task6 {
         }
         return i != 0;
     }
-
-//    public static boolean addData(Statement statement, String query) {
-//        boolean isNext = false;
-//        try {
-//            ResultSet res = statement.executeQuery(query);
-//            isNext = res.next();
-//        } catch (SQLException e) {
-//            e.printStackTrace();
-//        }
-//        return isNext;
-//    }
 }
